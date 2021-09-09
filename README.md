@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willongithub&theme=github_dark&layout=compact)
-![Liam's Github stats](https://github-readme-stats.vercel.app/api/?username=willongithub&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true)
+![Liam's Github stats](https://github-readme-stats.vercel.app/api/?username=willongithub&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
 
